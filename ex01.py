@@ -27,3 +27,4 @@ else:
 #se sair aqui dar erro quando o delta for zero
 #print(f"a raiz x1 é {x1}")
 #print(f"a raiz x2 é {x2}")
+# teste
