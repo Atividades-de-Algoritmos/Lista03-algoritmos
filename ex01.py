@@ -1,3 +1,11 @@
+
+# Autores:
+# Michel Silva
+# Emanuel Frank
+# Carlos Eduardo
+# data: 26/06/2022
+#
+
 ##entrada de dados
 print("informe os valores de a, b e c")
 print("exemplo: aX^2 + bX + c = 0")
