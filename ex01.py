@@ -41,3 +41,5 @@ else: #se delta for positivo
   x2 = (-b - (delta**(1/2))/(2*a)) #calculo da raiz x2
   print(f"a raiz x1 é {x1}")
   print(f"a raiz x2 é {x2}")
+
+print("fim do programa") # Informando ao usuário que o programa terminou

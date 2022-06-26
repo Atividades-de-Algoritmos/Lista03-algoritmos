@@ -46,4 +46,4 @@ elif (ladoA == ladoB) or (ladoA == ladoC) or (ladoB == ladoC):
 else:
   print("é um triângulo Escaleno!")
 
-print('\nfim do programa')
+print("fim do programa") # Informando ao usuário que o programa terminou
