@@ -118,4 +118,4 @@ fim do programa
 
 Feito com 💚 e ☕ by [**Michel**](https://github.com/MichelZero), [**Carlos**](https://github.com/SmokeDevL) e [**Emanuel**](https://github.com/emanuelfranklyn)
 
-[**dIFPB - Campus Cajazeiras**](https://www.ifpb.edu.br)
+[**IFPB - Campus Cajazeiras**](https://www.ifpb.edu.br)
