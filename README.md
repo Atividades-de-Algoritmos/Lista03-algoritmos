@@ -97,8 +97,7 @@ Pressione enter para executar o arquivo, em seguida informe o valor do lado A, L
 
 Será exibido no terminal a nomenclatura do seu triângulo.
 
-<br>
-<br>
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
